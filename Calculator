@@ -1,0 +1,8 @@
+#include<stdio.h>
+using namespace std;
+int main ()
+{
+cout << "My name is: Muhammad Zaid Riaz" << endl;
+cout << "My roll number is: 23-set-041" << endl;
+return 0;
+}
